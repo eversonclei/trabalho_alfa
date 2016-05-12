@@ -1,0 +1,8 @@
+{
+  "Nome": "Everson Clei",
+  "GitHub": "https://github.com/eversonclei",
+  "Trabalho": "Git",
+  "Disciplina": "Ferramentas de Versionamento",
+  "Professor": "Lanceloti",
+  "Pós-Graduacao": "WebDev ALFA 2016"
+}
